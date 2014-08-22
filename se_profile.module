@@ -1,0 +1,3 @@
+<?php
+
+include_once('se_profile.features.inc');
