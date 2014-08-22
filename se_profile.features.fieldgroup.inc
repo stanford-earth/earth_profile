@@ -47,7 +47,7 @@ function se_profile_fieldgroup_default_groups() {
         ),
       ),
     ),
-    'weight' => '74',
+    'weight' => '75',
     'fields' => array(
       '0' => 'field_personnel_type',
       '1' => 'field_primary_affiliations',
@@ -98,7 +98,7 @@ function se_profile_fieldgroup_default_groups() {
         ),
       ),
     ),
-    'weight' => '72',
+    'weight' => '74',
     'fields' => array(
       '0' => 'field_office_location',
       '1' => 'field_lab_location',
@@ -156,7 +156,7 @@ function se_profile_fieldgroup_default_groups() {
         ),
       ),
     ),
-    'weight' => '73',
+    'weight' => '76',
     'fields' => array(
       '0' => 'field_emergency_name',
       '1' => 'field_emergency_relationship',
@@ -206,7 +206,7 @@ function se_profile_fieldgroup_default_groups() {
         ),
       ),
     ),
-    'weight' => '71',
+    'weight' => '73',
     'fields' => array(
       '0' => 'field_photo',
       '1' => 'field_title',

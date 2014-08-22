@@ -74,16 +74,16 @@ function se_profile_strongarm() {
   $strongarm->api_version = 1;
   $strongarm->name = 'content_extra_weights_profile';
   $strongarm->value = array(
-    'title' => '70',
-    'revision_information' => '80',
-    'author' => '79',
-    'options' => '81',
-    'comment_settings' => '82',
-    'menu' => '78',
-    'taxonomy' => '-3',
-    'path' => '83',
-    'attachments' => '77',
-    'path_redirect' => '30',
+    'title' => '72',
+    'revision_information' => '98',
+    'author' => '97',
+    'options' => '99',
+    'comment_settings' => '100',
+    'menu' => '96',
+    'taxonomy' => '77',
+    'path' => '101',
+    'attachments' => '95',
+    'path_redirect' => '94',
   );
   $export['content_extra_weights_profile'] = $strongarm;
 
