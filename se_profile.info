@@ -1,7 +1,7 @@
 name = "Stanford Earth Profile"
 description = "Local non-CAP profile for Earth Science websites."
 core = "6.x"
-package = "Features"
+package = "Stanford Earth"
 version = "6.x-1.0-beta1"
 project = "se_profile"
 dependencies[] = "ctools"
